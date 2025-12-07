@@ -1,6 +1,6 @@
 # ChefAI - Sugestor de Receitas Inteligente
-*Aluna: Ana Luísa Feltrin Rauen.
-*Turma: S02.
+-Aluna: Ana Luísa Feltrin Rauen
+-Turma: S02
 
 O **ChefAI** é um sistema desenvolvido em Java que utiliza Inteligência Artificial para sugerir receitas culinárias baseadas nos ingredientes que o usuário possui em casa. O projeto aplica conceitos fundamentais de Orientação a Objetos (POO) e consome APIs de LLMs (Large Language Models).
 
